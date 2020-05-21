@@ -13,8 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# This demo lets you to explore the Udacity self-driving car image dataset.
-# More info: https://github.com/streamlit/demo-self-driving
 
 import streamlit as st
 import altair as alt
